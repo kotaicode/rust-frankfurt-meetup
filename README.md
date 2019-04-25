@@ -28,3 +28,12 @@ Change the `APP_NAME` environment variable accordingly.
 
 ## Books
 - [Rust-Book](https://doc.rust-lang.org) 
+
+
+
+## useful tools
+
+- clean up the cargo cache: https://github.com/matthiaskrgr/cargo-cache
+- format rust code: https://github.com/rust-lang/rustfmt
+- watch for changes and run commands: https://github.com/passcod/cargo-watch
+  - e.g. use `cargo watch -x fmt -x run` to automatically format and run on any change
