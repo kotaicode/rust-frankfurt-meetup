@@ -25,3 +25,6 @@ Change the `APP_NAME` environment variable accordingly.
 - [Rustlings](https://github.com/rust-lang/rustlings/) - Small exercises to get you used to reading and writing Rust code! 
 - [Rust Playground](https://play.rust-lang.org/) - experiment online with a rust runtime
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - a collection of runnable examples that illustrate various Rust concepts and standard libraries
+
+## Books
+- [Rust-Book](https://doc.rust-lang.org) 
