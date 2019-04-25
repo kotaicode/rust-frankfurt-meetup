@@ -5,7 +5,7 @@ Repository for the rust frankfurt meetup group: [https://www.meetup.com/Rust-Fra
 ## setup
 
 Rust setup, as recommended by the rust website:
- [https://www.rust-lang.org/tools/install](https://github.com/rust-lang/rustlings/)
+ [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 
 ### docker based development
 
