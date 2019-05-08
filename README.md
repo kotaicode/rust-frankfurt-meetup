@@ -37,3 +37,9 @@ Change the `APP_NAME` environment variable accordingly.
 - format rust code: https://github.com/rust-lang/rustfmt
 - watch for changes and run commands: https://github.com/passcod/cargo-watch
   - e.g. use `cargo watch -x fmt -x run` to automatically format and run on any change
+
+
+## rust 0x02
+
+- Niko was so kind to bring his small sample program: https://github.com/okin/opsi-rpc-rust
+- we extended it from a simple command line parser, to use clap - https://crates.io/crates/clap which allows to parse command line options with a lot of luxury
