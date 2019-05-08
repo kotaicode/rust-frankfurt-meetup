@@ -45,4 +45,4 @@ Change the `APP_NAME` environment variable accordingly.
   - we extended it from a simple command line parser, to use clap - https://crates.io/crates/clap which allows to parse command line options with a lot of luxury
   - also, we looked into how we can use strong typing for JSON data, exploring the functionality of https://github.com/serde-rs/json
 
-- we also explored some microcontroller/embedded systems coding in rust, looking at sample code for LED blinking on an stm32 blue pill microcontroller
+- we also explored some microcontroller/embedded systems coding in rust, looking at sample code for LED blinking on an stm32 blue pill microcontroller, based on https://github.com/TeXitoi/blue-pill-quickstart
